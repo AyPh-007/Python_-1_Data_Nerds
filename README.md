@@ -89,3 +89,8 @@ This project was not without its challenges, but it provided good learning oppor
 # Conclusion
 
 This exploration into the data analyst job market has been incredibly informative, highlighting the critical skills and trends that shape this evolving field. The insights I got enhance my understanding and provide actionable guidance for anyone looking to advance their career in data analytics. As the market continues to change, ongoing analysis will be essential to stay ahead in data analytics. This project is a good foundation for future explorations and underscores the importance of continuous learning and adaptation in the data field.
+
+
+[> Start reviewing the questions and insights](/Project/README.md)
+
+[> Take a closer look at the questions and data](/Project/)
