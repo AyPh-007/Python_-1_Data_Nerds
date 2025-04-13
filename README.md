@@ -93,4 +93,4 @@ This exploration into the data analyst job market has been incredibly informativ
 
 [> Start reviewing the questions and insights](/Project/README.md)
 
-[> Take a closer look at the questions and data](/Project/)
+[> Take a closer look at the data](/Project/)
